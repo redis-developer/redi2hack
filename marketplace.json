@@ -2,7 +2,7 @@
   "app_name": "Realtime GraphQL using Redis Streams, and RediSearch",
   "description": "Showcases how to use Realtime GraphQL using Redis Streams and realtime search using RediSearch in Java",
   "rank": "245",
-  "type": "Building Block",
+  "type": "Full App",
   "contributed_by": "Community",
   "language": [ "Java", "Spring Boot"],
   "redis_commands": [
