@@ -4,6 +4,17 @@
   "rank": "245",
   "type": "Full App",
   "contributed_by": "Community",
+  "repo_url": "https://github.com/redis-developer/redi2hack",
+  "download_url": "https://github.com/redis-developer/redi2hack/archive/refs/heads/main.zip",
+  "quick_deploy": "true",
+  "deploy_buttons": [
+    {
+      "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redi2hack.git"
+    },
+    {
+      "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/redi2hack.git"
+    }
+  ],
   "language": [ "Java", "Spring Boot"],
   "redis_commands": [
     "DEL",
@@ -33,20 +44,6 @@
   ],
   "verticals": [
     "Technology"
-  ],
-  "quick_deploy": "true",
-  "repo_url": "https://github.com/redis-developer/redi2hack",
-  "download_url": "https://github.com/redis-developer/redi2hack/archive/refs/heads/main.zip",
-  "deploy_buttons": [
-    {
-      "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redi2hack"
-    },
-    {
-      "vercel": "https://vercel.com/new/git/external?repository-url=https://github.com/redis-developer/redi2hack&env=REDIS_ENDPOINT_URI,REDIS_PASSWORD&envDescription=REDIS_ENDPOINT_URI%20is%20required%20at%20least%20to%20connect%20to%20Redis%20clouding%20server"
-    },
-    {
-      "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/redi2hack.git"
-    }
   ],
   "app_image_urls": [
     "https://raw.githubusercontent.com/redis-developer/redi2hack/main/docs/images/preview-1.png",
