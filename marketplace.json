@@ -32,8 +32,7 @@
     "XREAD"
   ],
   "redis_features": [
-    "Redis Streams",
-    "RediSearch"
+    "Redis Streams"
   ],
   "redis_modules": [
     "RediSearch"
