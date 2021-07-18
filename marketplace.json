@@ -6,7 +6,7 @@
   "contributed_by": "Community",
   "repo_url": "https://github.com/redis-developer/redi2hack",
   "download_url": "https://github.com/redis-developer/redi2hack/archive/refs/heads/main.zip",
-  "quick_deploy": "true",
+  "quick_deploy": "false",
   "deploy_buttons": [
     {
       "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redi2hack.git"
