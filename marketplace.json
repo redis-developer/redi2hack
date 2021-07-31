@@ -5,6 +5,7 @@
   "type": "Full App",
   "contributed_by": "Community",
   "repo_url": "https://github.com/redis-developer/redi2hack",
+  "preview_image_url": "https://raw.githubusercontent.com/redis-developer/redi2hack/master/images/app_preview_image.png",
   "download_url": "https://github.com/redis-developer/redi2hack/archive/refs/heads/main.zip",
   "quick_deploy": "false",
   "deploy_buttons": [
