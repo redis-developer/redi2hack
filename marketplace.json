@@ -1,7 +1,7 @@
 {
   "app_name": "Realtime GraphQL using Redis Streams, and RediSearch",
   "description": "Showcases how to use Realtime GraphQL using Redis Streams and realtime search using RediSearch in Java",
-  "rank": "245",
+  "rank": 143,
   "type": "Full App",
   "contributed_by": "Community",
   "repo_url": "https://github.com/redis-developer/redi2hack",
@@ -38,7 +38,7 @@
   "redis_modules": [
     "RediSearch"
   ],
-  "hosted_url": "https://redi2hack.herokuapp.com/",
+  "hosted_url": "",
   "special_tags": [
     "Hackathon"
   ],
