@@ -13,9 +13,6 @@ Showcases how to use Realtime GraphQL using Redis Streams and real-time search u
 ![image](https://user-images.githubusercontent.com/2755263/117599354-e5e76780-b106-11eb-8d41-dac8dd54541d.png)
 
 
-### Deployment in Heroku
-
-[redi2hack.herokuapp.com](https://redi2hack.herokuapp.com/)
 
 ### Start Redis and the Spring Boot Application in local dev env
 
@@ -83,15 +80,3 @@ Note: The app comes with the necessary sample code to follow.
 
 To make deploys work, you need to create free account in https://redislabs.com/try-free/
 
-### Google Cloud Run
-
-[![Run on Google
-Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://deploy.cloud.run/?git_repo=https://github.com/mohanraj-nagasamy/redi2hack.git&revision=feature/deploy-buttons)
-
-### Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mohanraj-nagasamy/redi2hack)
-
-### Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/mohanraj-nagasamy/redi2hack&env=REDIS_ENDPOINT_URI,REDIS_PASSWORD)
