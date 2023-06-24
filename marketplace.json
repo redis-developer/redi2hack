@@ -1,6 +1,6 @@
 {
-  "app_name": "Realtime GraphQL using Redis Streams, and RediSearch",
-  "description": "Showcases how to use Realtime GraphQL using Redis Streams and realtime search using RediSearch in Java",
+  "app_name": "Realtime GraphQL using Redis Streams, and Redis Search",
+  "description": "Showcases how to use Realtime GraphQL using Redis Streams and realtime search using Redis Search in Java",
   "rank": 143,
   "type": "Full App",
   "contributed_by": "Community",
@@ -32,11 +32,11 @@
     "XADD",
     "XREAD"
   ],
-  "redis_features": [
+  "redis_use_cases": [
     "Streams"
   ],
-  "redis_modules": [
-    "RediSearch"
+  "redis_features": [
+    "Search and Query"
   ],
   "hosted_url": "",
   "special_tags": [
