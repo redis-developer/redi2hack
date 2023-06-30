@@ -1,6 +1,6 @@
-# Realtime GraphQL using Redis Streams, and RediSearch
+# Realtime GraphQL using Redis Streams, and Redis Search
 
-Showcases how to use Realtime GraphQL using Redis Streams and real-time search using RediSearch in Java
+Showcases how to use Realtime GraphQL using Redis Streams and real-time search usingRedis Searchin Java
 
 ### Previews
 
@@ -54,18 +54,18 @@ state and push the events.
 
 * `subscribeEvents` (GraphQL subscription) uses Redis Stream to fetch all customer events or the
 latest customer events.
-  
-* `searchCustomers` GraphQL query uses RediSearch to search customers. 
+
+* `searchCustomers` GraphQL query usesRedis Searchto search customers.
 
 * `customers` and `findCustomer` use Redis Hash to find the all or a particular customer.
 
 ## How it works
 
 This project shows how to use **GraphQL Subscription** to push event data from the server using **Redis Streams** and
-support real-time search using **RediSearch**.
+support real-time search using **Redis Search**.
 
 * RediStreams: to capture all the customer events
-* RediSearch: to support search customer capabilities
+* Redis Search: to support search customer capabilities
 * RediHash: to store customer data
 * GraphQL:
     * Subscription: to push real time customer events
@@ -74,9 +74,8 @@ support real-time search using **RediSearch**.
 
 1. Goto: [redi2hack.herokuapp.com](https://redi2hack.herokuapp.com/)
 
-Note: The app comes with the necessary sample code to follow. 
+Note: The app comes with the necessary sample code to follow.
 
 ## Deployment
 
 To make deploys work, you need to create free account in https://redislabs.com/try-free/
-
